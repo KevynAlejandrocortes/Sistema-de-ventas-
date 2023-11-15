@@ -1,0 +1,12 @@
+C:\Sistema ventas\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Sistema ventas\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Sistema ventas\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Sistema ventas\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Sistema ventas\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Sistema ventas\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaEntidad\obj\Debug\CapaEntidad.pdb

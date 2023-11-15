@@ -1,0 +1,139 @@
+C:\Sistema ventas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Sistema ventas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Sistema ventas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Sistema ventas\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Sistema ventas\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Sistema ventas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Sistema ventas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Sistema ventas\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Sistema ventas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Sistema ventas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Clientes.resources
+C:\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria.resources
+C:\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCompras.resources
+C:\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProducto.resources
+C:\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProveedores.resources
+C:\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReportes.resources
+C:\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuarios.resources
+C:\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVentas.resources
+C:\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDetalleVenta.resources
+C:\Sistema ventas\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Sistema ventas\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Sistema ventas\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Sistema ventas\CapaPresentacion\bin\Debug\System.IO.Packaging.dll
+C:\Sistema ventas\CapaPresentacion\bin\Debug\ClosedXML.pdb
+C:\Sistema ventas\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Sistema ventas\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Sistema ventas\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmNegocio.resources
+C:\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
+C:\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProductos.resources
+C:\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDetalleCompra.resources
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\bin\Debug\System.IO.Packaging.dll
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\bin\Debug\ClosedXML.pdb
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Clientes.resources
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria.resources
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCompras.resources
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDetalleCompra.resources
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDetalleVenta.resources
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmNegocio.resources
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProducto.resources
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProveedores.resources
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReportes.resources
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuarios.resources
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVentas.resources
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProductos.resources
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdClientes.resources
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteVentas.resources
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteCompras.resources
+C:\Users\Familia\Desktop\Practica sistema de venttas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdAcercade.resources
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\bin\Debug\System.IO.Packaging.dll
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\bin\Debug\ClosedXML.pdb
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Clientes.resources
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCategoria.resources
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCompras.resources
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDetalleCompra.resources
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDetalleVenta.resources
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmNegocio.resources
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProducto.resources
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProveedores.resources
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteCompras.resources
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReportes.resources
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteVentas.resources
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuarios.resources
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVentas.resources
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdAcercade.resources
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdClientes.resources
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProductos.resources
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Familia\Desktop\Ventas\Sistema ventas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
